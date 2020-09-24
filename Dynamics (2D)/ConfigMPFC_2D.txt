@@ -1,0 +1,11 @@
+ /////////////Basic Simulation parameters
+320 320				::  Nx, Ny number of grid points
+7.256 10				::expected lattice length, points per lattice unit in x
+1 5000 500 				::time step dt, totalTime, printFreq
+6 70				::Initialization pattern and radius: 0: uniform, 1: noise, 2: 1-mode approx, 3:slab, 4: circle
+0.17 0.17 0.17			::nl, n0, ns
+0.7 0.14	 			::Bx, DB
+1.0				:: alpha
+0.2				::lambda
+32 32				:: atomsx, atomsy
+Spacing, dx				:: 1, 
